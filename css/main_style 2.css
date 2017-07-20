@@ -1,0 +1,76 @@
+{
+    margin: 0;
+    padding: 0;
+}
+ 
+article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{display:block}
+
+html,body{font-family:"Roboto", sans-serif;font-size:15px;}html{overflow-x:hidden}
+ 
+input { 
+    text-align: center; 
+}
+
+select{
+	text-align-last:center;
+}
+
+h3 {
+    font-size: 18px;
+    line-height: 22px;
+    padding: 11px 0;
+}
+ 
+p {
+    padding-bottom: 0px;
+}
+header,footer,article {
+    margin:5px;margin-bottom:15px;padding:1px;
+    background-color:white;
+}
+header,footer {
+    color:black;background-color:#FFFF;margin-bottom:5px;
+	text-align: center;
+	font-size: 25px;
+}
+section{
+	height: 520px;
+}	
+table.CRTable {
+	text-align: center;
+}
+table.CRTable td{
+	text-align: center;
+	width: 100px;
+}
+
+.nolines_PlusTree{
+	background: url(../img/plusbottom.gif) no-repeat left;
+}
+.nolines_MinusTree{
+	background: url(../img/minusbottom.gif) no-repeat left;
+}
+.joinTree{
+	background: url(../img/join.gif) no-repeat left;
+}
+.joinBottomTree{
+	background: url(../img/joinbottom.gif) no-repeat left;
+}
+.plusBottomTree{
+	background: url(../img/plusbottom.gif) no-repeat left;
+}
+.plusTree{
+	background: url(../img/plus.gif) no-repeat left;
+}
+.minusTree{
+	background: url(../img/minus.gif) no-repeat left;
+}
+.minusBottomTree{
+	background: url(../img/minusbottom.gif) no-repeat left;
+}
+.lineTree{
+	background: url(../img/line.gif) no-repeat left;
+}
+.deleteIcon{
+	background: url(../img/ic_delete_black_24dp_1x.png) no-repeat center;
+}
